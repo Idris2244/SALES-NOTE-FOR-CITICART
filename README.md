@@ -19,6 +19,20 @@ The primary data source for this project is the Citi Cart sales dataset, which i
 - Excel (For Data Cleaning)
 - Tableau (For Stores and Visualization)
 
+### Exploratory Data Analysis
+
+EDA involved exploring the sales note citi_cart to answer key question, such as:
+
+- What the best product by sales?
+- What the best product that bring more profit?
+- Which product is sold out most?
+- Which segment brings the best profit?
+- What the sales trend?
+- Which country patronize the most?
+- What is the Discount rate?
+
+### Results and findings 
+
 
  
 
