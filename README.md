@@ -76,7 +76,9 @@ The discount structure shows a high discount percentage of 57.76%, a medium disc
 - It is recommended that the company expand its advertising efforts to additional countries to increase overall sales and profits. Additionally, a targeted advertising strategy should be implemented in countries with lower sales to boost their performance.
 - It is recommended that the company enhance its advertising and promotional efforts during these months with lower sales to improve overall sales and profitability.
 
+### Conclusion 
 
+In summary, the analysis reveals that Paseo is the standout product in terms of sales and profit, significantly outperforming competitors. The Government segment leads in overall profitability, while targeted advertising efforts are essential for boosting the performance of lower-performing products and segments, particularly in markets with diminished sales. Monthly performance data indicates a strong opportunity to enhance sales during underperforming months, such as January and August, through increased promotional activities. Furthermore, the discount structure suggests a strategic approach to pricing that could be optimized to drive sales further. By implementing these recommendations, the company can maximize its market presence and profitability.
 
 
  
