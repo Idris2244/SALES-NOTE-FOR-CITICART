@@ -8,7 +8,7 @@
 
 This project analyzes Citi Cart sales data to extract insights on product performance, segment dynamics, and profitability. The dataset features key attributes such as country, date, discount band, month name, month number, product, segment, and year. The goal is to provide actionable insights that support informed business strategies and decision-making.
 
-![P admin 1](https://github.com/user-attachments/assets/b100e0c7-e96d-4d6b-8810-dcd6a7a56946)
+![E_S](https://github.com/user-attachments/assets/07247809-e86a-4b3b-aa1a-63f60e92dee7)
 
 ### Data Sources 
 
